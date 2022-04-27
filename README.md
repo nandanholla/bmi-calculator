@@ -11,7 +11,7 @@ It is a simple React BMI Calculator app which takes height(cm) and weight(kg) of
 ![App Screenshot - Normal screen](./src/assets/bmi-2.png)
 ![App Screenshot - Overweight screen](./src/assets/bmi-3.png)
 
-## Built With 🎯
+## Built With
 
 React, React-Bootstrap
 ## Demo
