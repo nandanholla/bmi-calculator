@@ -16,7 +16,7 @@ It is a simple React BMI Calculator app which takes height(cm) and weight(kg) of
 React, React-Bootstrap
 ## Demo
 
-Link
+![Heroku Link](https://cal-bmi.herokuapp.com/)
 ## Run Locally
 
 Clone the project
