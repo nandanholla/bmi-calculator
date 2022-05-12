@@ -4,6 +4,9 @@
 Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.
 
 It is a simple React BMI Calculator app which takes height(cm) and weight(kg) of a person and returns BMI of that person.
+## Demo
+
+https://cal-bmi.herokuapp.com/
 ## Screenshots
 
 ![App Screenshot - Home screen](./src/assets/bmi.png)
@@ -14,9 +17,6 @@ It is a simple React BMI Calculator app which takes height(cm) and weight(kg) of
 ## Built With
 
 React, React-Bootstrap
-## Demo
-
-https://cal-bmi.herokuapp.com/
 ## Run Locally
 
 Clone the project
